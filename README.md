@@ -1,6 +1,6 @@
 # VlogVerseAI - Convert your video or voice into a Blog Post in seconds with the power of AI!
 
-Built with the Next.js 14 App Router, Clerk for Auth - with Passkeys, Github and Google Sign in, React, Google AI - Gemini API & AssemblyAI, ShadCN UI library for components, React Markdown, NeonDb, UploadThing, Stripe for payments, Webhooks, TypeScript, TailwindCSS and more.
+Vlogverse is an ai SAAS platfrom that can convert your voice into SEO friendly blog posts. Built with Next.js 14 App Router, Clerk, Google AI - Gemini API & AssemblyAI, ShadCN UI library, React Markdown, NeonDb, UploadThing, Razorpay for payments, TypeScript, TailwindCSS and more.
 
 ![Project Image](https://utfs.io/f/3d7a62fe-f8ce-438f-bced-56cb1f83094b-fd7se9.png)
 
@@ -24,3 +24,25 @@ Built with the Next.js 14 App Router, Clerk for Auth - with Passkeys, Github and
 - 📈 Performance optimizations
 - 🔍 SEO-friendly blog post generation
 - 🔐 Protected routes and API endpoints
+
+## Getting started
+
+To get started with this project:
+
+1. Clone the repository to your local machine.
+```bash
+  git clone https://github.com/auraticabhi/VlogVerse.git
+```
+
+2. Install the required packages.  
+```bash
+  cd VlogVerse
+  npm install
+```
+
+3. Copy the .env.example variables into a separate .env.local file, fill them out & and run
+```bash
+    npm run dev
+```
+
+that's all you need to get started!
